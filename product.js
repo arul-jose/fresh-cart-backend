@@ -457,6 +457,15 @@ const productlist = [{
     "width": 400,
     "price": 22.50,
     "rating": 4
+  }, {
+    "title": "Avacado",
+    "type": "fruit",
+    "description": "Fresh healthy fruit",
+    "filename": "51.jpg",
+    "height": 600,
+    "width": 400,
+    "price": 22.50,
+    "rating": 5
   }];
 
 const getProductByName = (searchKey) => {
