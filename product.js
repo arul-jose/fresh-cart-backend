@@ -448,6 +448,15 @@ const productlist = [{
     "width": 400,
     "price": 25.62,
     "rating": 3
+  }, {
+    "title": "Cabbage",
+    "type": "vegetable",
+    "description": "Fresh leafy organic vagetable",
+    "filename": "50.jpg",
+    "height": 600,
+    "width": 400,
+    "price": 22.50,
+    "rating": 4
   }];
 
 const getProductByName = (searchKey) => {
